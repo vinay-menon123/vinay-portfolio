@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/vinay-portfolio.github.io/static/css/main.87e58e9d.css",
-    "main.js": "/vinay-portfolio.github.io/static/js/main.51ced769.js",
-    "static/media/Vinay_Menon_resume.pdf": "/vinay-portfolio.github.io/static/media/Vinay_Menon_resume.45b71a9d820b1d9e66ac.pdf",
-    "static/media/project2.jpg": "/vinay-portfolio.github.io/static/media/project2.04084241a99c96524f6b.jpg",
-    "static/media/project4.jpg": "/vinay-portfolio.github.io/static/media/project4.4d9096d860b1c266d8ba.jpg",
-    "static/media/about-me.png.jpg": "/vinay-portfolio.github.io/static/media/about-me.png.db45a3e4973ef4b6486c.jpg",
-    "static/media/project3.jpg": "/vinay-portfolio.github.io/static/media/project3.bc06ee72e80df3ee8764.jpg",
-    "static/media/project5.jpg": "/vinay-portfolio.github.io/static/media/project5.06deeb46cce35eea8115.jpg",
-    "static/media/java.jpg": "/vinay-portfolio.github.io/static/media/java.b05c7bdd66166490be39.jpg",
-    "static/media/google-R.jpg": "/vinay-portfolio.github.io/static/media/google-R.32af15ea0cdcf2e2a7f8.jpg",
-    "static/media/google-data.jpg": "/vinay-portfolio.github.io/static/media/google-data.31858e9129087642f6fa.jpg",
-    "static/media/IBM_certi.jpg": "/vinay-portfolio.github.io/static/media/IBM_certi.0289dbe0f779823dfadc.jpg",
-    "static/media/me.jpg": "/vinay-portfolio.github.io/static/media/me.553427be5f7671095f2a.jpg",
-    "static/media/bg-texture2.jpg": "/vinay-portfolio.github.io/static/media/bg-texture2.e7edd56bd8d4d6ccc4fe.jpg",
-    "index.html": "/vinay-portfolio.github.io/index.html",
-    "main.87e58e9d.css.map": "/vinay-portfolio.github.io/static/css/main.87e58e9d.css.map",
-    "main.51ced769.js.map": "/vinay-portfolio.github.io/static/js/main.51ced769.js.map"
+    "main.css": "/vinay-portfolio/static/css/main.a91d3f8c.css",
+    "main.js": "/vinay-portfolio/static/js/main.efa44f7a.js",
+    "static/media/Vinay_Menon_resume.pdf": "/vinay-portfolio/static/media/Vinay_Menon_resume.45b71a9d820b1d9e66ac.pdf",
+    "static/media/project2.jpg": "/vinay-portfolio/static/media/project2.04084241a99c96524f6b.jpg",
+    "static/media/project4.jpg": "/vinay-portfolio/static/media/project4.4d9096d860b1c266d8ba.jpg",
+    "static/media/about-me.png.jpg": "/vinay-portfolio/static/media/about-me.png.db45a3e4973ef4b6486c.jpg",
+    "static/media/project3.jpg": "/vinay-portfolio/static/media/project3.bc06ee72e80df3ee8764.jpg",
+    "static/media/project5.jpg": "/vinay-portfolio/static/media/project5.06deeb46cce35eea8115.jpg",
+    "static/media/java.jpg": "/vinay-portfolio/static/media/java.b05c7bdd66166490be39.jpg",
+    "static/media/google-R.jpg": "/vinay-portfolio/static/media/google-R.32af15ea0cdcf2e2a7f8.jpg",
+    "static/media/google-data.jpg": "/vinay-portfolio/static/media/google-data.31858e9129087642f6fa.jpg",
+    "static/media/IBM_certi.jpg": "/vinay-portfolio/static/media/IBM_certi.0289dbe0f779823dfadc.jpg",
+    "static/media/me.jpg": "/vinay-portfolio/static/media/me.553427be5f7671095f2a.jpg",
+    "static/media/bg-texture2.jpg": "/vinay-portfolio/static/media/bg-texture2.e7edd56bd8d4d6ccc4fe.jpg",
+    "index.html": "/vinay-portfolio/index.html",
+    "main.a91d3f8c.css.map": "/vinay-portfolio/static/css/main.a91d3f8c.css.map",
+    "main.efa44f7a.js.map": "/vinay-portfolio/static/js/main.efa44f7a.js.map"
   },
   "entrypoints": [
-    "static/css/main.87e58e9d.css",
-    "static/js/main.51ced769.js"
+    "static/css/main.a91d3f8c.css",
+    "static/js/main.efa44f7a.js"
   ]
 }
