@@ -33,6 +33,7 @@ const Services = () => {
         <article className = "service__article">
           <div className='service__head'>
             <h3>GlobalLogic</h3>
+            <h4 style = {{color:'grey', textAlign:'center'}}>A Hitachi Group Company</h4>
           </div>
           <ul className = 'service__list'>
             <li>

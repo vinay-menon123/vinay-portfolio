@@ -39,7 +39,7 @@ const about = () => {
           . Pursuing Bachelor's in Computer Science and Engineering.<br/>
           . Competitive Programmer.<br/>
           . Proficient in Python.<br/>
-          . 700+ questions on leetcode.
+          . 750+ questions on leetcode.
           </p>
           <a href = "#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
