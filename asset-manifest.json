@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/vinay-portfolio/static/css/main.a91d3f8c.css",
-    "main.js": "/vinay-portfolio/static/js/main.71bf6313.js",
+    "main.js": "/vinay-portfolio/static/js/main.46ac14dd.js",
     "static/media/project2.jpg": "/vinay-portfolio/static/media/project2.04084241a99c96524f6b.jpg",
     "static/media/project4.jpg": "/vinay-portfolio/static/media/project4.4d9096d860b1c266d8ba.jpg",
     "static/media/about-me.png.jpg": "/vinay-portfolio/static/media/about-me.png.db45a3e4973ef4b6486c.jpg",
     "static/media/project3.jpg": "/vinay-portfolio/static/media/project3.bc06ee72e80df3ee8764.jpg",
-    "static/media/Vinay_Menon_resume.pdf": "/vinay-portfolio/static/media/Vinay_Menon_resume.03c790b71e514abce637.pdf",
+    "static/media/Vinay_Menon_resume.pdf": "/vinay-portfolio/static/media/Vinay_Menon_resume.11abe06ec5f7d89a3e76.pdf",
     "static/media/project5.jpg": "/vinay-portfolio/static/media/project5.06deeb46cce35eea8115.jpg",
     "static/media/java.jpg": "/vinay-portfolio/static/media/java.b05c7bdd66166490be39.jpg",
     "static/media/google-R.jpg": "/vinay-portfolio/static/media/google-R.32af15ea0cdcf2e2a7f8.jpg",
@@ -16,10 +16,10 @@
     "static/media/bg-texture2.jpg": "/vinay-portfolio/static/media/bg-texture2.e7edd56bd8d4d6ccc4fe.jpg",
     "index.html": "/vinay-portfolio/index.html",
     "main.a91d3f8c.css.map": "/vinay-portfolio/static/css/main.a91d3f8c.css.map",
-    "main.71bf6313.js.map": "/vinay-portfolio/static/js/main.71bf6313.js.map"
+    "main.46ac14dd.js.map": "/vinay-portfolio/static/js/main.46ac14dd.js.map"
   },
   "entrypoints": [
     "static/css/main.a91d3f8c.css",
-    "static/js/main.71bf6313.js"
+    "static/js/main.46ac14dd.js"
   ]
 }
